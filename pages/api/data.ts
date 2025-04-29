@@ -1,6 +1,6 @@
 
 let data = {
-  target: 3000,
+  target: 38000,
   collected: 0,
   contributors: 0,
 };
